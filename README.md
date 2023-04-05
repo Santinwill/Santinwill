@@ -2,9 +2,11 @@
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-pedro-santin-348734214/)
 
- ![Santinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=Santinwill&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santinwill&layout=compact)](https://github.com/Santinwill/github-readme-stats)
+<div><br>
+<a href="https://github.com/Santinwill">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santinwill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santinwill&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que utilizo diariamente
 <div>
