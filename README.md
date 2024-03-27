@@ -15,6 +15,12 @@
 
 
 ## Estou estudando
+<h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,ts,react,python,docker,postgres,prisma,vscode,github,git,jenkins"/>
+</div>
+
 <div>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd343" alt="Python"/>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
