@@ -12,15 +12,14 @@
 <h2 align="center"> Tecnologias que utilizo diariamente</h2>
 <div align="center">
   <img align="center" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img align="center" src="https://img.shields.io/badge/Firebird-A22121?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird"/>		
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>	
 </div>
 
 
 <h2 align="center"> Estou estudando</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,python,docker,postgres,flutter,firebase,php"/>
+  <img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,python,docker,flutter,firebase,php,mongodb"/>
 </div>
 
 	
