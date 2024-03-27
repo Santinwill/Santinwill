@@ -18,7 +18,7 @@
 <h2 align="center"> Estou estudando</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,python,docker,postgres,"/>
+  <img src="https://skillicons.dev/icons?i=cs,javascript,nodejs,python,docker,postgres,flutter,firebase,php"/>
 </div>
 
 	
